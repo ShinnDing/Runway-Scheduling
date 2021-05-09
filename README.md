@@ -1,6 +1,6 @@
 # Queues
 
-*This code is posted with instructor permission, and adheres to school policy.
+*This code is posted with instructor's permission, and adheres to Metropolitan State University's policy.
 
 Assignment Summary:
 
