@@ -1,7 +1,5 @@
 
-//NO CHANGES
 public class Averager {
-
 	private int count;
 	private double sum;
 	
