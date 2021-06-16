@@ -1,7 +1,5 @@
 
-//NO CHANGES
 public class BooleanSource {
-
 	private double probability;
 	
 	public BooleanSource(double p) {
@@ -9,7 +7,6 @@ public class BooleanSource {
 			throw new IllegalArgumentException("Illegal p: " + p);
 		probability = p;
 	}
-	
 	public boolean query()	{
 		return (Math.random() < probability);
 	}
